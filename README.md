@@ -27,7 +27,7 @@
 
 ## Skills:
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
+  <img width="48" height="48" src="https://img.icons8.com/external-flatart-icons-lineal-color-flatarticons/48/external-flowchart-design-thinking-and-3d-model-printing-flatart-icons-lineal-color-flatarticons.png" alt="external-flowchart-design-thinking-and-3d-model-printing-flatart-icons-lineal-color-flatarticons"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
