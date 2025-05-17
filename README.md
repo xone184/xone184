@@ -34,6 +34,7 @@
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
+  <img width="48" height="48" src="https://img.icons8.com/dusk/48/jira.png" alt="jira"/>
 </p>
 
 ## Activities:
@@ -44,4 +45,4 @@
 
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
 
-- [![CodeLearn](https://codelearn.io/codelearn-logo.png) Truyền thông và mạng máy tính](https://codelearn.io/share/4f2e25ec-b0d3-42e9-b289-96664dd840cf)
+- [![CodeLearn](https://codelearn.io/codelearn-logo.png)Truyền thông và mạng máy tính](https://codelearn.io/share/4f2e25ec-b0d3-42e9-b289-96664dd840cf)
