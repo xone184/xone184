@@ -7,7 +7,7 @@
   <h3 align="center">A Fresher Business Analyst</h3>
 </p>
 
-> ✍ I'm a Student of [Ha Noi University of Natural Resoures and Enviroment ](https://hunre.edu.vn/).
+> ✍ I'm a Student of [Ha Noi University of Natural Resources and Environment ](https://hunre.edu.vn/).
 
 <br />
 
