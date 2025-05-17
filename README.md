@@ -44,4 +44,4 @@
 
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
 
-- [![CodeLearn](https://img.shields.io/badge/-MATLAB-orange) Truyền thông và mạng máy tính](https://codelearn.io/share/4f2e25ec-b0d3-42e9-b289-96664dd840cf)
+- [![CodeLearn](https://codelearn.io/codelearn-logo.png) Truyền thông và mạng máy tính](https://codelearn.io/share/4f2e25ec-b0d3-42e9-b289-96664dd840cf)
