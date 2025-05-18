@@ -4,7 +4,7 @@
 
 <h2 align="center">Hi 👋, I'm Tho</h2>
 <p align="center">
-  <h3 align="center">A Fresher Business Analyst</h3>
+  <h3 align="center">Business Analyst</h3>
 </p>
 
 > ✍ I'm a Student of [Ha Noi University of Natural Resources and Environment ](https://hunre.edu.vn/).
