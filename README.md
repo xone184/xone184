@@ -23,10 +23,8 @@
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
   <a href="https://www.linkedin.com/in/th%E1%BB%8D-v%C4%83n-02ba153b1/" alt="LinkedIn">
-    <img src="<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/aca38440-19a9-441a-9f8f-18d621578d50" />
-"/>
+    <img src="https://github.com/user-attachments/assets/aca38440-19a9-441a-9f8f-18d621578d50"/>
 </p>
-
 ## Skills:
 <p align="center">
   <img width="48" height="48" src="https://img.icons8.com/external-flatart-icons-lineal-color-flatarticons/48/external-flowchart-design-thinking-and-3d-model-printing-flatart-icons-lineal-color-flatarticons.png" alt="external-flowchart-design-thinking-and-3d-model-printing-flatart-icons-lineal-color-flatarticons"/>
