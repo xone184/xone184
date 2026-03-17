@@ -23,7 +23,7 @@
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
   <a href="https://www.linkedin.com/in/th%E1%BB%8D-v%C4%83n-02ba153b1/" alt="LinkedIn">
-    <img src="https://img.icons8.com/clouds/100/linkedin.png"/>
+    <img src="https://img.icons8.com/fluency/48/linkedin.png"/>
 </p>
 ## Skills:
 <p align="center">
