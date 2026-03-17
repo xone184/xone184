@@ -22,6 +22,9 @@
   <a href="https://mail.google.com/mail/u/0/#inbox" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
+  <a href="https://www.linkedin.com/in/th%E1%BB%8D-v%C4%83n-02ba153b1/" alt="LinkedIn">
+    <img src="<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/aca38440-19a9-441a-9f8f-18d621578d50" />
+"/>
 </p>
 
 ## Skills:
