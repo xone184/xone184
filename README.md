@@ -1,60 +1,62 @@
-<!-- <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" /> -->
-<img align="right" width="64" src="https://github.com/xone184.png" />
-<!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
+<div align="center">
+  <img width="120" src="https://github.com/xone184.png" alt="Profile" style="border-radius: 50%" />
+  
+  <h1>Hi 👋, I'm Tho</h1>
+  <h3>Business Analyst</h3>
 
-<h2 align="center">Hi 👋, I'm Tho</h2>
-<p align="center">
-  <h3 align="center">Business Analyst</h3>
-</p>
+  > ✍ *I'm a student at [Hanoi University of Natural Resources and Environment](https://hunre.edu.vn/)*.
 
-> ✍ I'm a Student of [Ha Noi University of Natural Resources and Environment ](https://hunre.edu.vn/).
+</div>
+
 <br />
 
-## 📫 How to reach me:
+## 📫 How to reach me
 
 <p align="center">
-  <a href="https://www.facebook.com/xone.184" alt="Facebook">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
+  <a href="https://www.facebook.com/xone.184">
+    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Facebook" />
   </a> 
-  <a href="https://github.com/xone184" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+  <a href="https://github.com/xone184">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="Github" />
   </a> 
-  <a href="https://mail.google.com/mail/u/0/#inbox" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
+  <a href="https://mail.google.com/mail/u/0/#inbox">
+    <img src="https://img.icons8.com/fluent/48/000000/mailing.png" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/th%E1%BB%8D-v%C4%83n-02ba153b1/" alt="LinkedIn">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png"/>
-</p>
-## Skills:
-<p align="center">
-  <img width="48" height="48" src="https://img.icons8.com/external-flatart-icons-lineal-color-flatarticons/48/external-flowchart-design-thinking-and-3d-model-printing-flatart-icons-lineal-color-flatarticons.png" alt="external-flowchart-design-thinking-and-3d-model-printing-flatart-icons-lineal-color-flatarticons"/>
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img width="48" height="48" src="https://img.icons8.com/plasticine/48/github.png" alt="github"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
-  <img width="48" height="48" src="https://img.icons8.com/dusk/48/jira.png" alt="jira"/>
+  <a href="https://www.linkedin.com/in/thọ-văn-02ba153b1/">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" />
+  </a>
 </p>
 
-## Activities:
-<table style="width:100%;">
+## 🛠️ Skills
+
+<p align="center">
+  <img width="50" src="https://img.icons8.com/external-flatart-icons-lineal-color-flatarticons/64/external-flowchart-design-thinking-and-3d-model-printing-flatart-icons-lineal-color-flatarticons.png" alt="Flowchart"/>&nbsp;&nbsp;
+  <img width="50" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL Server"/>&nbsp;&nbsp;
+  <img width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>&nbsp;&nbsp;
+  <img width="50" src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>&nbsp;&nbsp;
+  <img width="50" src="https://img.icons8.com/plasticine/100/github.png" alt="GitHub"/>&nbsp;&nbsp;
+  <img width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/>&nbsp;&nbsp;
+  <img width="50" src="https://img.icons8.com/color/48/null/visual-studio--v2.png" alt="Visual Studio"/>&nbsp;&nbsp;
+  <img width="50" src="https://img.icons8.com/dusk/64/jira.png" alt="Jira"/>
+</p>
+
+## 📈 Activities
+
+<table align="center" style="border: none;">
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xone184&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="xone184" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=xone184&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="xone184" width="100%"/>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xone184&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="Top Languages" width="100%" />
+      <br/><br/>
+      <img src="https://github-readme-stats.vercel.app/api?username=xone184&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="Github Stats" width="100%" />
     </td>
-    <td>
-      <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
-      </p>
+    <td width="50%" align="center">
+      <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Coding Freak" width="90%" />
     </td>
   </tr>
 </table>
 
+## 📜 Certificates
 
-# Certificates:
+<img align="right" width="300" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg" alt="Joined GitHub" />
 
-<img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
-
-- [![CodeLearn](https://codelearn.io/codelearn-logo.png)Truyền thông và mạng máy tính](https://codelearn.io/share/4f2e25ec-b0d3-42e9-b289-96664dd840cf)
+- **CodeLearn:** [Truyền thông và mạng máy tính](https://codelearn.io/share/4f2e25ec-b0d3-42e9-b289-96664dd840cf)
