@@ -64,7 +64,7 @@
         </a>
       </p>
       <p align="center">
-        🛫 Hệ thống đặt vé máy bay trực tuyến cho hãng hàng không nội địa <strong>Air Hanoi</strong>. Hỗ trợ tìm kiếm chuyến bay, đặt vé, quản lý hành khách và theo dõi lịch bay theo thời gian thực.
+        🛫 Hệ thống phân tích và dự báo chất lượng không khí tại <strong>Air Hanoi</strong>. Hỗ trợ cập nhật chất lượng không khí thời gian thực, lộ trình sạch, trợ lý AI thông minh và cộng đồng trực tuyến.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
