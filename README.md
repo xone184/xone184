@@ -12,7 +12,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=179FA3&center=true&vCenter=true&width=500&lines=Business+Analyst+in+the+making+%F0%9F%93%8A;Turning+data+into+decisions+%F0%9F%92%A1;Building+smart+systems+%F0%9F%8F%97%EF%B8%8F" alt="Typing SVG" />
 </p>
 
-> ✍️ Sinh viên tại **[Đại học Tài nguyên và Môi trường Hà Nội](https://hunre.edu.vn/)** — đam mê phân tích nghiệp vụ, dữ liệu và xây dựng hệ thống thông minh.
+> ✍️ Từng học tại **[Đại học Tài nguyên và Môi trường Hà Nội](https://hunre.edu.vn/)** — đam mê phân tích nghiệp vụ, dữ liệu và xây dựng hệ thống thông minh.
 
 ---
 
